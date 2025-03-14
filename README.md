@@ -25,9 +25,5 @@
 <h2><b>Always Connect with Me</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px" width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/logalakshmi-a-2804b733a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/Logalakshmi-A'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<br>
-<br>
 
-
-<h2><b>My Technical & All Over Skills⚡</b> </h2>
 
